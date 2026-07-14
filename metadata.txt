@@ -1,0 +1,17 @@
+[general]
+name=SynoptiquePro
+qgisMinimumVersion=3.16
+qgisMaximumVersion=3.99
+description=Plugin QGIS pour la génération automatique de synoptiques FTTH
+version=1.0.0
+author=Abdallah Bbareik
+email=abdallah@example.com
+about=SynoptiquePro est un plugin QGIS qui automatise la génération de synoptiques de câbles FTTH à partir de fichiers KMZ. Il permet d'analyser les réseaux de câbles, d'identifier les éléments (NRO, PM, PBO, chambres), de reconstruire la topologie et d'exporter les résultats en plusieurs formats (PDF, SVG, Excel, Draw.io).
+repository=https://github.com/abdallahbbareik/SynoptiquePro
+tracker=https://github.com/abdallahbbareik/SynoptiquePro/issues
+homepage=https://github.com/abdallahbbareik/SynoptiquePro
+tags=FTTH,KMZ,Cable,Synoptique,Network,Topology
+changelog=
+    1.0.0 - Version initiale avec support complet des synoptiques FTTH
+category=Network
+icon=resources/icon.png
