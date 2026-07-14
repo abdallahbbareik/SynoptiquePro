@@ -1,0 +1,4 @@
+networkx>=2.5
+reportlab>=3.6.0
+openpyxl>=3.0.0
+PyQGIS>=3.16
